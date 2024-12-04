@@ -62,7 +62,7 @@ An good example of a readme can be found in the [jsdmstan: joint Species Distrib
 
 ### Topics
 
-The use of topics (which are essentially labels on repositories) would allow better sharing and understanding of the vast software in the organisation GitHub instance.   The aim would not be to overload users with required (or suggested) topics, but to create a small list to support fiding repositories.  Suggestions inlude:
+The use of topics (which are essentially labels on repositories) woulUpdate README.mdd allow better sharing and understanding of the vast software in the organisation GitHub instance.   The aim would not be to overload users with required (or suggested) topics, but to create a small list to support fiding repositories.  Suggestions inlude:
 
 - template
 - tutorial
@@ -104,7 +104,7 @@ There are may repositories in the GitHub organisation that provide little to no 
 1. Review miminal required information for a repository
 2. Create guidance on prefered licences, how to choose a license and relevant IP.
 3. Create repository/organisation health files:
-  1. Code of Conduct
-  2. Contribution Guidelines
+   1. Code of Conduct
+   2. Contribution Guidelines
 3. Create a landing page and determined **pinned** repositories
 4. Decided on whether and how a name change should take place
