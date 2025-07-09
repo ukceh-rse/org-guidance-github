@@ -2,7 +2,9 @@
 
 ## Justification
 
-This document aims to convey the reasons why and how curation and re-organisation of the organisation GitHub instance should take place.
+_This document is a discussion draft by the Research Software Engineering team_. It aims to convey the reasons why and how curation and re-organisation of the organisation GitHub instance should take place. It is _not official organisational guidance_.
+
+**Suggestions and improvements** are really welcome. Please create an issue in this repository, or send a pull request, or send feedback comments to the rsegroup@ internal alias with your suggested improvements.
 
 ### Background (Problem)
 
