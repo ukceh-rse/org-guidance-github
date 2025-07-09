@@ -1,4 +1,4 @@
-# Github Organisation
+# GitHub Organisation
 
 ## Justification
 
